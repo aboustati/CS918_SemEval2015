@@ -1,0 +1,2 @@
+# CS918: Natural Language Processing
+This repository contains my full work for the second assignment of CS918:NLP. Please do not forget to read the running instructions when you navigate through the folders. 
